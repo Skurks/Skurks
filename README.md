@@ -23,8 +23,10 @@ Worst Day/Time for a 2 hr Meeting | After 2PM
 
 ## My Communication Channels
 I strive to be a hyper efficient person & purposefully carve out time in my day/week to 'think'. My calendar (and thus my time) is very important to me
+* I'm a morning person so can send communications at rediculous hours of the morning. I don't expect a response.
 * Please DO share an agenda & any background reading/context with the invite. If there's no agenda, I'll likely decline.
 * Please DON'T schedule/double book me. But if the calendar slot is open, take it!
+* I do my best to not ping/message folks over the weekend unless they've reached out first.
 
 
 CHANNEL (Most urgent to least urgent) | BEST FOR
