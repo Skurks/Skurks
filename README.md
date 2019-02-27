@@ -1,9 +1,9 @@
 # Skurks Leadership Readme/Operating Manual
 
 ## My "Psychological Profiles"
-DISC = [Di] (https://www.crystalknows.com/disc/di-id-personality-type)
-KOLBE = Fact Finder = 4  | Followthru = 7  | Quick-Start = 3 | Implementor = 5
-MEYERS BRIGGS = 
+* DISC = [Di] (https://www.crystalknows.com/disc/di-id-personality-type)
+* KOLBE = Fact Finder = 4  | Followthru = 7  | Quick-Start = 3 | Implementor = 5
+* MEYERS BRIGGS = 
 
 ## My Leadership Philosphy
 
