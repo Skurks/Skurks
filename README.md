@@ -34,12 +34,6 @@ How do you prefer to receive recognition (public or private)
 
 What are your goals for this year? For the next 3 months?
 
-What do you need from your manager?
-
-What do you need from y our team?
-
-What interests do you have when you're not working?
-
 
 ## My expectations of folks who report to me
 
@@ -47,4 +41,7 @@ What interests do you have when you're not working?
 ## What you can expect of me as your manager
 
 
-
+## What interests do you have when you're not working?
+* Trying to stay a scratch golfer
+* Training & playing with my dog [Birdie](https://www.instagram.com/birdielegriff/)
+* Exploring the world and being random with my wife [Aly](https://www.instagram.com/aljskurka/)
