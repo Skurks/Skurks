@@ -21,6 +21,21 @@ Thinking (No Meeting Days) | Tuesday & Wednesday
 1x1 Days | Thursday & Friday
 Worst Day/Time for a 2 hr Meeting | After 2PM
 
+## My Communication Channels
+I strive to be a hyper efficient person & purposefully carve out time in my day/week to 'think'. My calendar (and thus my time) is very important to me
+* Please DO share an agenda & any background reading/context with the invite. If there's no agenda, I'll likely decline.
+* Please DON'T schedule/double book me. But if the calendar slot is open, take it!
+
+(Most urgent to least urgent)
+CHANNEL | BEST FOR
+----- | -----
+Phone Call | Collaboration, time-sensitive/urgent (< 24 hrs) question/request
+SMS | Logistics, semi-urgent question, check-ins, shooting the "shit"
+Email | Async specific request, transfer of knowledge
+Slack | Non-urgent
+
+Also, I'm a morning person so can send communications at rediculous hours of the morning. I don't expect a response. I also do my best to not ping/message folks over the weekend unless they've reached out first.
+
 ## My answers to Questions
 
 What makes you grumpy? 
