@@ -26,8 +26,8 @@ I strive to be a hyper efficient person & purposefully carve out time in my day/
 * Please DO share an agenda & any background reading/context with the invite. If there's no agenda, I'll likely decline.
 * Please DON'T schedule/double book me. But if the calendar slot is open, take it!
 
-(Most urgent to least urgent)
-CHANNEL | BEST FOR
+
+CHANNEL (Most urgent to least urgent) | BEST FOR
 ----- | -----
 Phone Call | Collaboration, time-sensitive/urgent (< 24 hrs) question/request
 SMS | Logistics, semi-urgent question, check-ins, shooting the "shit"
