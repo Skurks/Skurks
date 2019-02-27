@@ -6,6 +6,19 @@
 * MEYERS BRIGGS = 
 
 ## My Leadership Philosphy
+Feel fullfilled by providing mentorship
+Inspired by Principles of Marine Core Leadership
+Show intellectual curiosity/effort before asking for help
+Proactive sharing (managing up)
+Outcomes > how
+LOVE opening doors, but you have to walk through it
+
+## My Daily/Weekly Cadence
+ITEM | ANSWER
+----- | -----
+Most Productive Time of the Day | Mornings; before Noon
+Days I Am Most Engaged | Tuesday --> Thursday
+Worst Day/Time for a 2 hr Meeting | After 2PM
 
 ## My answers to Questions
 
@@ -32,5 +45,6 @@ What interests do you have when you're not working?
 
 
 ## What you can expect of me as your manager
+
 
 
