@@ -11,7 +11,7 @@
 * Working through difficult problems
 * Mentorship (bi-directional)
 
-# My achilles heels (but actively working on em)
+## My achilles heels (but actively working on em)
 * Short patience at times
 * Heart on my sleeve
 * 
