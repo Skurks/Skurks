@@ -5,6 +5,16 @@
 * KOLBE = Fact Finder = 4  | Followthru = 7  | Quick-Start = 3 | Implementor = 5
 * MEYERS BRIGGS = 
 
+## My energy creators
+* I'm a fixer/helper
+* Love telling stories with data
+* 
+
+# My achilles heels
+* Often short patience
+* Heart on my sleeve
+*
+
 ## My Leadership Philosphy
 * Feel fullfilled by providing mentorship
 * Inspired by [Principles of Marine Core Leadership](https://www.mcjrotc.marines.mil/About/Leadership-Principles/)
@@ -38,7 +48,7 @@ Slack | Non-urgent
 
 Also, I'm a morning person so can send communications at rediculous hours of the morning. I don't expect a response. I also do my best to not ping/message folks over the weekend unless they've reached out first.
 
-## My answers to Questions
+## My answers to Random Questions
 
 What makes you grumpy? 
 - 
