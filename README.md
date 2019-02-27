@@ -6,31 +6,37 @@
 * MEYERS BRIGGS = 
 
 ## My Leadership Philosphy
-Feel fullfilled by providing mentorship
-Inspired by Principles of Marine Core Leadership
-Show intellectual curiosity/effort before asking for help
-Proactive sharing (managing up)
-Outcomes > how
-LOVE opening doors, but you have to walk through it
+* Feel fullfilled by providing mentorship
+* Inspired by [Principles of Marine Core Leadership](https://www.mcjrotc.marines.mil/About/Leadership-Principles/)
+* Show [intellectual curiosity](https://www.forbes.com/sites/tomaspremuzic/2017/03/06/what-happens-when-leaders-lack-curiosity/#3cd906236b74)/effort before asking for help 
+* Proactive sharing (managing up)
+* Outcomes > how
+* Pay it forward
 
 ## My Daily/Weekly Cadence
 ITEM | ANSWER
 ----- | -----
 Most Productive Time of the Day | Mornings; before Noon
-Days I Am Most Engaged | Tuesday --> Thursday
+Thinking (No Meeting Days) | Tuesday & Wednesday
+1x1 Days | Thursday & Friday
 Worst Day/Time for a 2 hr Meeting | After 2PM
 
 ## My answers to Questions
 
 What makes you grumpy? 
+- 
 
 How will I know when you're grumpy?
+- Body english fortuantely or unfortuantely, is usually a dead giveaway (make myself small, pursed lips, etc)
 
 How can I help you when you're grumpy?
+- Call me out on it in the moment!
 
 How do you like feedback - slack, email, in person, etc?
+- Whatever way gets your own thoughts & feedback communicated most confidently and sussinctly
 
 How do you prefer to receive recognition (public or private)
+- Either, but don't need it often.
 
 What are your goals for this year? For the next 3 months?
 
