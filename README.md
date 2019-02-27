@@ -39,6 +39,7 @@ How do you prefer to receive recognition (public or private)
 - Either, but don't need it often.
 
 What are your goals for the next 3 months? Full Year? 5 Years?
+
 Timeline | Goal
 ----- | -----
 Q1/2 2019 (Now) | Interviews, testing, & rollout of product pricing/packaging revamp to new RT Customers
@@ -46,7 +47,7 @@ Full Year 2019 | Continued growth & development of a high-functioning, high-impa
 Full Year 2019 | Building & shipping new products in support of RT's growth & customer retention goals
 Full Year 2019 | Pay it forward more
 Full Year 2019 | Meditate & workout 4x a week
-5 Years | COO role or Real Estate venture
+5 Years | COO role or create a new real estate venture
 
 
 
