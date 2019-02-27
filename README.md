@@ -64,10 +64,10 @@ What are your goals for the next 3 months? Full Year? 5 Years?
 Timeline | Goal
 ----- | -----
 Q1/2 2019 (Now) | Interviews, testing, & rollout of product pricing/packaging revamp to new RT Customers
-Full Year 2019 (Professional) | Continued growth & development of a high-functioning, high-impact Product team
-Full Year 2019 (Professional) | Building & shipping new products in support of RT's growth & customer retention goals
-Full Year 2019 (Both) | Be a great human to others --> Pay it forward 2x a week, write more hand-written notes
-Full Year 2019 (Personal) | Be a physically/mentally healthier me --> Meditate & workout 4x a week
+2019 (Professional) | Continued growth & development of a high-functioning, high-impact Product team
+2019 (Professional) | Building & shipping new products in support of RT's growth & customer retention goals
+2019 (Both) | Be a great human to others --> Pay it forward 2x a week, write more hand-written notes
+2019 (Personal) | Be a physically/mentally healthier me --> Meditate & workout 4x a week
 5 Years | COO role and/or create a new real estate venture
 
 
