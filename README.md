@@ -1,7 +1,7 @@
 # Skurks Leadership Readme/Operating Manual
 
 ## My "Psychological Profiles"
-* DISC = [Di] (https://www.crystalknows.com/disc/di-id-personality-type)
+* DISC = [Di](https://www.crystalknows.com/disc/di-id-personality-type)
 * KOLBE = Fact Finder = 4  | Followthru = 7  | Quick-Start = 3 | Implementor = 5
 * MEYERS BRIGGS = 
 
@@ -14,7 +14,7 @@
 * Pay it forward
 
 ## My Daily/Weekly Cadence
-ITEM | ANSWER
+TOPIC | ANSWER
 ----- | -----
 Most Productive Time of the Day | Mornings; before Noon
 Thinking (No Meeting Days) | Tuesday & Wednesday
@@ -38,7 +38,16 @@ How do you like feedback - slack, email, in person, etc?
 How do you prefer to receive recognition (public or private)
 - Either, but don't need it often.
 
-What are your goals for this year? For the next 3 months?
+What are your goals for the next 3 months? Full Year? 5 Years?
+Timeline | Goal
+----- | -----
+Q1/2 2019 (Now) | Interviews, testing, & rollout of product pricing/packaging revamp to new RT Customers
+Full Year 2019 | Continued growth & development of a high-functioning, high-impact Product team
+Full Year 2019 | Building & shipping new products in support of RT's growth & customer retention goals
+Full Year 2019 | Pay it forward more
+Full Year 2019 | Meditate & workout 4x a week
+5 Years | COO role or Real Estate venture
+
 
 
 ## My expectations of folks who report to me
@@ -51,3 +60,4 @@ What are your goals for this year? For the next 3 months?
 * Trying to stay a scratch golfer
 * Training & playing with my dog [Birdie](https://www.instagram.com/birdielegriff/)
 * Exploring the world and being random with my wife [Aly](https://www.instagram.com/aljskurka/)
+* Hosting & managing my [Airbnb side hustle](https://www.airbnb.com/rooms/6229085)
