@@ -61,8 +61,10 @@ Q1/2 2019 (Now) | Interviews, testing, & rollout of product pricing/packaging re
 
 
 ## My expectations of folks who report to me
-* Setup a healthly system of push/pull of sharing information. I can always handle bad news, but I HATE surprises.
-* Take ownership of their career and personal/professional development. If I have to be pushing you often
+* Please setup a healthly system of push/pull of sharing information (over-communicate). I can always handle bad news, but I HATE surprises.
+* Please take ownership of you career and personal/professional development. If I have to be pushing you often, we won't last long.
+* Please tell me if anything feels off, as soon as you feel it.
+* Please
 
 ## What you can expect of me as your manager
 * Someone who with fight with and for you to acheive outsized professional growth & development
