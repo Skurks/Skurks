@@ -47,18 +47,6 @@ Slack | Non-urgent, general comms
 
 ## My answers to Random Questions
 
-How will I know when you're grumpy?
-- Body english fortuantely or unfortuantely, is usually a dead giveaway (make myself small, pursed lips, etc)
-
-How can I help you when you're grumpy?
-- Call me out on it in the moment!
-
-How do you like feedback - slack, email, in person, etc?
-- Whatever way gets your own thoughts & feedback communicated most confidently and sussinctly
-
-How do you prefer to receive recognition (public or private)
-- Either, but don't need it often.
-
 What are your goals for the next 3 months? Full Year? 5 Years?
 
 Timeline | Goal
@@ -68,6 +56,7 @@ Q1/2 2019 (Now) | Interviews, testing, & rollout of product pricing/packaging re
 2019 (Professional) | Building & shipping new products in support of RT's growth & customer retention goals
 2019 (Both) | Be a great human to others --> Pay it forward 2x a week, write more hand-written notes
 2019 (Personal) | Be a physically/mentally healthier me --> Meditate & workout 4x a week
+2019 (Personal) | Play more competitive golf --> Qualify for a USGA/CDGA championship 
 5 Years | COO role and/or create a new real estate venture
 
 
