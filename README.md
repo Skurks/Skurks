@@ -6,14 +6,14 @@
 * MEYERS BRIGGS = 
 
 ## My energy creators
-* I'm a fixer/helper
+* Fixing/helping/problem-Solving
 * Love telling stories with data
-* Working through difficult problems
+* Lifelong learner (aspiring [polymath](https://en.wikipedia.org/wiki/Polymath))
 * Mentorship (bi-directional)
 
 ## My achilles heels (but actively working on em)
-* Short patience at times
-* Heart on my sleeve
+* Short patience at times (call me out in the moment if you see pursed lips)
+* Heart on my sleeve (call me out in the moment if I seem too intense)
 * 
 
 ## My Leadership Philosphy
@@ -72,13 +72,18 @@ Q1/2 2019 (Now) | Interviews, testing, & rollout of product pricing/packaging re
 
 
 ## My expectations of folks who report to me
-
+* Setup a healthly system of push/pull of sharing information. I can always handle bad news, but I HATE surprises.
+* Take ownership of their career and personal/professional development. If I have to be pushing you often
 
 ## What you can expect of me as your manager
-
+* Someone who with fight with and for you to acheive outsized professional growth & development
+* Someone who won't micro-manage you, but expects much of you
+* Someone who cares less about facetime/hrs worked as much as the quality & impact of you output
+* Someone who over-indexes on transparency. Sure, there will be some things I just can't share with you, but I will never lie to you.
 
 ## What interests do you have when you're not working?
-* Trying to stay a scratch golfer
-* Training & playing with my dog [Birdie](https://www.instagram.com/birdielegriff/)
+* Trying to stay a [scratch golfer](https://www.cdga.org/peer.asp?cmd=view&uid=6383196&id=)
+* Training & playing with my pup [Birdie](https://www.instagram.com/birdielegriff/)
 * Exploring the world and being random with my wife [Aly](https://www.instagram.com/aljskurka/)
 * Hosting & managing my [Airbnb side hustle](https://www.airbnb.com/rooms/6229085)
+* Being an exceptional friend, brother, son to my family
