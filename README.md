@@ -40,6 +40,7 @@ Worst Day/Time for an intense 2 hr meeting | Fridays; After 2PM
 
 CHANNEL (Most urgent to least urgent) | BEST FOR
 ----- | -----
+Face to Face | When you've missed my ugly mug
 Phone Call | Collaboration, time-sensitive/urgent (< 24 hrs) question/request
 SMS | Logistics, semi-urgent question, check-ins, shooting the "shit"
 Email | Async specific request, transfer of knowledge
