@@ -32,10 +32,10 @@ Thinking (No Meeting Days) | Tuesday & Wednesday
 Worst Day/Time for an intense 2 hr meeting | Fridays; After 2PM
 
 ## My Communication Channels
-I strive to be a hyper efficient person & purposefully carve out time in my day/week to 'think'. My calendar (and thus my time) is very important to me
+*  My time (and thus my calendar) is very important to me. I strive to be a hyper efficient person & purposefully carve out time in my day/week to 'think'. 
 * I'm a morning person so can send communications at rediculous hours of the morning. I don't expect a response.
+* Please DON'T double book me. My calendar is public and open. If the calendar slot is open, take it (with conditions)!
 * Please DO share an agenda & any background reading/context with the invite. If there's no agenda, I'll likely decline.
-* Please DON'T double book me. But if the calendar slot is open, take it!
 * I do my best to not ping/message folks over the weekend unless they've reached out first.
 
 CHANNEL (Most urgent to least urgent) | BEST FOR
@@ -64,13 +64,13 @@ Q1/2 2019 (Now) | Interviews, testing, & rollout of product pricing/packaging re
 * Please setup a healthly system of push/pull of sharing information (over-communicate). I can always handle bad news, but I HATE surprises.
 * Please take ownership of you career and personal/professional development. If I have to be pushing you often, we won't last long.
 * Please tell me if anything feels off, as soon as you feel it.
-* Please
+* I work some weekends, this is my choice. I do NOT expect you to work most weekends, but I do expect you to 'crank' during the week.
 
 ## What you can expect of me as your manager
 * Someone who with fight with and for you to acheive outsized professional growth & development
 * Someone who won't micro-manage you, but expects much of you
 * Someone who cares less about facetime/hrs worked as much as the quality & impact of you output
-* Someone who over-indexes on transparency. Sure, there will be some things I just can't share with you, but I will never lie to you.
+* Someone who over-indexes on transparency. Sure, there will be some things I just can't share with you, but I will never lie to you. 
 
 ## What interests do you have when you're not working?
 * Trying to stay a [scratch golfer](https://www.cdga.org/peer.asp?cmd=view&uid=6383196&id=)
