@@ -46,7 +46,7 @@ SMS | Logistics, semi-urgent question, check-ins, shooting the "shit"
 Email | Async specific request, transfer of knowledge
 Slack | Non-urgent, general comms
 
-## My answers to Random Questions
+## My Goals
 
 What are your goals for the next 3 months? Full Year? 5 Years?
 
