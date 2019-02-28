@@ -6,14 +6,14 @@
 * MEYERS BRIGGS = 
 
 ## My energy creators
-* Fixing/helping/problem-Solving
+* Fixing/helping/problem-solving
 * Love telling stories with data
 * Lifelong learner (aspiring [polymath](https://en.wikipedia.org/wiki/Polymath))
 * Mentorship (bi-directional)
 
 ## My achilles heels (but actively working on em)
-* Short patience at times (call me out in the moment if you see pursed lips)
-* Heart on my sleeve (call me out in the moment if I seem too intense)
+* Short patience at times. Call me out in the moment if you see pursed lips
+* Heart on my sleeve. Call me out in the moment if I seem too intense
 * 
 
 ## My Leadership Philosphy
