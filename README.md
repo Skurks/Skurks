@@ -69,7 +69,7 @@ Q1/2 2019 (Now) | Interviews, testing, & rollout of product pricing/packaging re
 ## What you can expect of me as your manager
 * Someone who with fight with and for you to acheive outsized professional growth & development
 * Someone who won't micro-manage you, but expects much of you
-* Someone who cares less about facetime/hrs worked as much as the quality & impact of you output
+* Someone who cares less about facetime/hrs worked as much as the quality & impact of your output
 * Someone who over-indexes on transparency. Sure, there will be some things I just can't share with you, but I will never lie to you. 
 
 ## What interests do you have when you're not working?
