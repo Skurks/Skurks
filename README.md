@@ -1,8 +1,8 @@
 # Skurks Leadership Readme/Operating Manual
 
 ## My "Psychological Profiles"
-* DISC = [Di](https://www.crystalknows.com/disc/di-id-personality-type)
-* KOLBE = Fact Finder = 4  | Followthru = 7  | Quick-Start = 3 | Implementor = 5
+* DISC PROFILE = [Di](https://www.crystalknows.com/disc/di-id-personality-type)
+* [KOLBE](http://paulkortman.com/2013/11/19/laymens-guide-kolbe-score/) = Fact Finder = 4  | Followthru = 7  | Quick-Start = 3 | Implementor = 5
 * MEYERS BRIGGS = 
 
 ## My energy creators
