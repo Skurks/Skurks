@@ -17,7 +17,7 @@
 * 
 
 ## My Leadership Philosphy
-* Inspired/Core SOP by [Principles of Marine Core Leadership](https://www.mcjrotc.marines.mil/About/Leadership-Principles/)
+* Try to live by [Principles of Marine Core Leadership](https://www.mcjrotc.marines.mil/About/Leadership-Principles/)
 * Show [intellectual curiosity](https://www.forbes.com/sites/tomaspremuzic/2017/03/06/what-happens-when-leaders-lack-curiosity/#3cd906236b74)/effort before asking for help 
 * Proactive sharing (managing up)
 * Outcomes > how
@@ -65,7 +65,7 @@ Q1/2 2019 (Now) | Interviews, testing, & rollout of product pricing/packaging re
 * Please setup a healthly system of push/pull of sharing information (over-communicate). I can always handle bad news, but I HATE surprises.
 * Please take ownership of you career and personal/professional development. If I have to be pushing you often, we won't last long.
 * Please tell me if anything feels off, as soon as you feel it.
-* I work some weekends, this is my choice. I do NOT expect you to work most weekends, but I do expect you to 'crank' during the week.
+* I work some weekends, this is my choice. I do NOT expect you to work weekends, but I do expect you to 'crank' during the week.
 
 ## What you can expect of me as your manager
 * Someone who with fight with and for you to acheive outsized professional growth & development
