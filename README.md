@@ -1,10 +1,6 @@
 # Skurks Leadership Readme/Operating Manual
 I aspire to be the best stand-up, hard-working, ever-learning technology executive who won't shy away from rolling up the sleves and getting my hands dirty when needed, or working on problems no one else wants to solve. Building great (and profitable) products and experiences are not done in a vaccum or via brilliant ideas from HPPO, but in becoming a student of your customers'/market's pains and aspirations.
 
-## My "Psychological Profiles"
-* DISC PROFILE = [Di](https://www.crystalknows.com/disc/di-id-personality-type)
-* [KOLBE](http://paulkortman.com/2013/11/19/laymens-guide-kolbe-score/) = Fact Finder = 4  | Followthru = 7  | Quick-Start = 3 | Implementor = 5
-
 ## My energy creators
 * Fixing/helping/problem-solving
 * Love telling stories with data
@@ -55,7 +51,6 @@ Be a physically/mentally healthier me | 2019 (Personal) | Meditate & workout 4x 
 Play more competitive golf | 2019 (Personal) | Qualify for a USGA/CDGA championship 
 Never stop growing professionally | 5 Years | COO role and/or create a new real estate venture
 
-
 ## My expectations of folks who report to me
 * Please setup a healthly system of push/pull of sharing information (over-communicate). I can always handle bad news, but I HATE surprises.
 * Please take ownership of you career and personal/professional development. If I have to be pushing you often, we won't last long.
@@ -74,3 +69,7 @@ Never stop growing professionally | 5 Years | COO role and/or create a new real 
 * Exploring the world and being random with my wife [Aly](https://www.instagram.com/aljskurka/)
 * Hosting & managing my [Airbnb side hustle](https://www.airbnb.com/rooms/6229085)
 * Being an exceptional friend, brother, son to my family
+
+## My "Psychological Profiles"
+* DISC PROFILE = [Di](https://www.crystalknows.com/disc/di-id-personality-type)
+* [KOLBE](http://paulkortman.com/2013/11/19/laymens-guide-kolbe-score/) = Fact Finder = 4  | Followthru = 7  | Quick-Start = 3 | Implementor = 5
