@@ -1,16 +1,6 @@
 # Skurks Leadership Readme/Operating Manual
 I aspire to be the best stand-up, hard-working, ever-learning technology executive who won't shy away from rolling up the sleves and getting my hands dirty when needed, or working on problems no one else wants to solve. Building great (and profitable) products and experiences are not done in a vaccum or via brilliant ideas from HPPO, but in becoming a student of your customers'/market's pains and aspirations.
 
-## My energy creators
-* Fixing/helping/problem-solving
-* Love telling stories with data
-* Lifelong learner (aspiring [polymath](https://en.wikipedia.org/wiki/Polymath))
-* Mentorship (bi-directional)
-
-## My achilles heels (but actively working on em)
-* Short patience at times. Call me out in the moment if you see pursed lips
-* Heart on my sleeve. Call me out in the moment if I seem too intense
-
 ## My Leadership Philosphy
 * Try to live by [Principles of Marine Core Leadership](https://www.mcjrotc.marines.mil/About/Leadership-Principles/)
 * Show [intellectual curiosity](https://www.forbes.com/sites/tomaspremuzic/2017/03/06/what-happens-when-leaders-lack-curiosity/#3cd906236b74)/effort before asking for help 
@@ -62,6 +52,16 @@ Never stop growing professionally | 5 Years | COO role and/or create a new real 
 * Someone who won't micro-manage you, but expects much of you
 * Someone who cares less about facetime/hrs worked as much as the quality & impact of your output
 * Someone who over-indexes on transparency. Sure, there will be some things I just can't share with you, but I will never lie to you. 
+
+## My energy creators
+* Fixing/helping/problem-solving
+* Love telling stories with data
+* Lifelong learner (aspiring [polymath](https://en.wikipedia.org/wiki/Polymath))
+* Mentorship (bi-directional)
+
+## My achilles heels (but actively working on em)
+* Short patience at times. Call me out in the moment if you see pursed lips
+* Heart on my sleeve. Call me out in the moment if I seem too intense
 
 ## What interests do you have when you're not working?
 * Trying to stay a [scratch golfer](https://www.cdga.org/peer.asp?cmd=view&uid=6383196&id=)
