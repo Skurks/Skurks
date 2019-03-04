@@ -1,10 +1,9 @@
 # Skurks Leadership Readme/Operating Manual
-I fancy myself a stand-up, hard-working, ever-learning technology executive who won't shy away from rolling up the sleves and getting the hands dirty when needed. As a former CPA 
+I fancy myself a stand-up, hard-working, ever-learning technology executive who won't shy away from rolling up the sleves and getting the hands dirty when needed, or working on problems no one else wants to solve.
 
 ## My "Psychological Profiles"
 * DISC PROFILE = [Di](https://www.crystalknows.com/disc/di-id-personality-type)
 * [KOLBE](http://paulkortman.com/2013/11/19/laymens-guide-kolbe-score/) = Fact Finder = 4  | Followthru = 7  | Quick-Start = 3 | Implementor = 5
-* MEYERS BRIGGS = 
 
 ## My energy creators
 * Fixing/helping/problem-solving
@@ -15,7 +14,6 @@ I fancy myself a stand-up, hard-working, ever-learning technology executive who 
 ## My achilles heels (but actively working on em)
 * Short patience at times. Call me out in the moment if you see pursed lips
 * Heart on my sleeve. Call me out in the moment if I seem too intense
-* 
 
 ## My Leadership Philosphy
 * Try to live by [Principles of Marine Core Leadership](https://www.mcjrotc.marines.mil/About/Leadership-Principles/)
@@ -40,7 +38,7 @@ Worst Day/Time for an intense 2 hr meeting | Fridays; After 2PM
 * I do my best to not ping/message folks over the weekend unless they've reached out first.
 
 Mediums
------ | -----
+
 Hit me up in whatever medium you'd like (I have all of my notifications on silent). I strive for a 24-hr SLA. If it's crazy urgent, don't hesitate to come find me face to face or double-ring me on the phone.
 
 ## My OKRs
@@ -51,6 +49,7 @@ Objective | Timeline | Key-Result
 ----- | ----- | -----
 Improve attractiveness of RT.com's product offering | Q1/2 2019 (Now) | Support interviews, testing, & rollout of product pricing/packaging revamp to new RT Customers
 Build & grow high-functioning Product team | 2019 (Professional) | 100% voluntary rentetion 
+Scale RT.com to best-in-class SaaS | 2019-2020 | > 50% YoY Revenue Growth, > 100% Net Dollar Retention, Improve Margins > 10%
 Be a great human to others | 2019 (Both) | Pay it forward 2x a week, write more hand-written notes
 Be a physically/mentally healthier me | 2019 (Personal) | Meditate & workout 4x a week. Pay it forward 2x a week.
 Play more competitive golf | 2019 (Personal) | Qualify for a USGA/CDGA championship 
