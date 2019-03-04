@@ -1,5 +1,5 @@
 # Skurks Leadership Readme/Operating Manual
-I fancy myself a stand-up, hard-working, ever-learning technology executive who won't shy away from rolling up the sleves and getting the hands dirty when needed, or working on problems no one else wants to solve.
+I aspire to be the best stand-up, hard-working, ever-learning technology executive who won't shy away from rolling up the sleves and getting the hands dirty when needed, or working on problems no one else wants to solve.
 
 ## My "Psychological Profiles"
 * DISC PROFILE = [Di](https://www.crystalknows.com/disc/di-id-personality-type)
@@ -47,8 +47,8 @@ What are your goals for the next 3 months? Full Year? 5 Years?
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
-Improve attractiveness of RT.com's product offering | Q1/2 2019 (Now) | Support interviews, testing, & rollout of product pricing/packaging revamp to new RT Customers
-Build & grow high-functioning Product team | 2019 (Professional) | 100% voluntary rentetion 
+Improve attractiveness of RT.com's product offering | Q1/2 2019 (Now) | Reboot of product pricing/packaging to new RT Customers
+Build & grow high-functioning Product team | 2019 (Professional) | 100% voluntary rentetion, PM meet with > 1x customer/week 
 Scale RT.com to best-in-class SaaS | 2019-2020 | > 50% YoY Revenue Growth, > 100% Net Dollar Retention, Improve Margins > 10%
 Be a great human to others | 2019 (Both) | Pay it forward 2x a week, write more hand-written notes
 Be a physically/mentally healthier me | 2019 (Personal) | Meditate & workout 4x a week. Pay it forward 2x a week.
