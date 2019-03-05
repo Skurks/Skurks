@@ -4,7 +4,7 @@ I aspire to be the best stand up, hard-working, ever-learning technology executi
 ## My Leadership Philosphy
 * Try to live by [Principles of Marine Core Leadership](https://www.mcjrotc.marines.mil/About/Leadership-Principles/)
 * Show [intellectual curiosity](https://www.forbes.com/sites/tomaspremuzic/2017/03/06/what-happens-when-leaders-lack-curiosity/#3cd906236b74)/effort before asking for help 
-* Proactive sharing (managing up)
+* Proactive sharing (managing up/across)
 * Outcomes > how
 * Pay it forward
 
