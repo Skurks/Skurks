@@ -1,4 +1,4 @@
-# Skurks Leadership Readme/Operating Manual
+# Skurks Leadership README/Operating Manual
 I aspire to be the best stand-up, hard-working, ever-learning technology executive who won't shy away from rolling up the sleves and getting my hands dirty when needed, or working on problems no one else wants to solve. Building great (and profitable) products and experiences are not done in a vaccum or via brilliant ideas from HPPO, but in becoming a student of your customers'/market's pains and aspirations.
 
 ## My Leadership Philosphy
