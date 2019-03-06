@@ -1,5 +1,5 @@
 # Skurks Leadership README/Operating Manual
-I aspire to be the best stand up, hard-working, ever-learning technology executive who won't shy away from rolling up the sleves and getting my hands dirty when needed, or working on problems no one else wants to solve. Building great (and profitable) products and experiences are not done in a vaccum or via brilliant ideas from HPPO, but in becoming a student of your customers'/market's pains and aspirations.
+I aspire to be the best stand up, hard-working, ever-learning technology executive who won't shy away from rolling up the sleves and getting my hands dirty when needed, or working on problems no one else wants to solve. Building great (and profitable) products and experiences are about in becoming an obsessive student of your customers'/market's pains and aspirations.
 
 ## My Leadership Philosphy
 * Try to live by [Principles of Marine Core Leadership](https://www.mcjrotc.marines.mil/About/Leadership-Principles/)
@@ -27,9 +27,7 @@ Mediums
 
 Hit me up in whatever medium you'd like (I have all of my notifications on silent). I strive for a 24-hr SLA. If it's crazy urgent, don't hesitate to come find me face to face or double-ring me on the phone.
 
-## My OKRs
-
-What are your goals for the next 3 months? Full Year? 5 Years?
+## My Current OKRs (as of March 2019)
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
