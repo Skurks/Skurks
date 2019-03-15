@@ -68,6 +68,7 @@ Never stop growing professionally | 5 Years | COO role and/or create a new real 
 * Hosting & managing my [Airbnb side hustle](https://www.airbnb.com/rooms/6229085)
 * Being an exceptional friend, brother, son to my family
 
-## My "Psychological Profiles"
+## Other "Stuff"
+* I'm still a Certified Public Accountant (CPA) in the state of Illinois, used to specialize in taxiation.
 * DISC PROFILE = [Di](https://www.crystalknows.com/disc/di-id-personality-type)
 * [KOLBE](http://paulkortman.com/2013/11/19/laymens-guide-kolbe-score/) = Fact Finder = 4  | Followthru = 7  | Quick-Start = 3 | Implementor = 5
