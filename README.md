@@ -46,7 +46,7 @@ Never stop growing professionally | 5 Years | COO role and/or create a new real 
 * I work some weekends, this is my choice. I do NOT expect you to work weekends, but I do expect you to 'crank' during the week.
 
 ## What you can expect of me as your manager
-* Someone who with fight with and for you to acheive outsized professional growth & development
+* Someone who will fight with and for you to acheive outsized professional growth & development
 * Someone who won't micro-manage you, but expects much of you
 * Someone who cares less about facetime/hrs worked as much as the quality & impact of your output
 * Someone who over-indexes on transparency. Sure, there will be some things I just can't share with you, but I will never lie to you. 
