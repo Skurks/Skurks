@@ -23,7 +23,7 @@ Worst Day/Time for an intense 2 hr meeting | Fridays; After 2PM
 * Please DO share an agenda & any background reading/context with the invite. If there's no agenda, I'll likely decline.
 * I do my best to not ping/message folks over the weekend unless they've reached out first.
 
-Hit me up in whatever medium you'd like (I have all of my notifications on silent). I strive for a 24-hr SLA. If it's crazy urgent, don't hesitate to come find me face to face or double-ring me on the phone.
+Hit me up in whatever medium you'd like (but I do have ALL my notifications on silent). I strive for a 24-hr SLA. If it's crazy urgent, don't hesitate to come find me face to face or double-ring me on the phone.
 
 ## My Current OKRs (as of March 2019)
 
