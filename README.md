@@ -67,6 +67,6 @@ Never stop growing professionally | 5 Years | COO role and/or create a new real 
 * Being an exceptional friend, brother, son to my family
 
 ## Other "Stuff"
-* I'm still a Certified Public Accountant (CPA) in the state of Illinois, used to specialize in taxiation.
+* I'm still a Certified Public Accountant (CPA) in the state of Illinois, specialize in taxiation.
 * DISC PROFILE = [Di](https://www.crystalknows.com/disc/di-id-personality-type)
 * [KOLBE](http://paulkortman.com/2013/11/19/laymens-guide-kolbe-score/) = Fact Finder = 4  | Followthru = 7  | Quick-Start = 3 | Implementor = 5
