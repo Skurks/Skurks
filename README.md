@@ -31,9 +31,9 @@ Objective | Timeline | Key-Result
 ----- | ----- | -----
 Improve attractiveness of RT.com's product offering | Q1/2 2019 (Now) | Reboot of product pricing/packaging to new RT Customers
 Build & grow high-functioning Product team | 2019 (Professional) | 100% voluntary rentetion, PM meet with > 1x customer/week 
-Scale RT.com to best-in-class SaaS | 2019-2020 | > 50% YoY Revenue Growth, > 100% Net Dollar Retention, Improve Margins > 10%
+Scale RT.com to best-in-class SaaS | 2019-2020 | > 50% YoY Revenue Growth, > 110% Net Dollar Retention, Improve Margins > 10%
 Be a great human to others | 2019 (Both) | Pay it forward 2x a week, write more hand-written notes
-Be a physically/mentally healthier me | 2019 (Personal) | Meditate & workout 4x a week. Pay it forward 2x a week.
+Be a physically/mentally healthier me | 2019 (Personal) | Meditate & workout 4x a week.
 Play more competitive golf | 2019 (Personal) | Qualify for a USGA/CDGA championship 
 Never stop growing professionally | 5 Years | COO role and/or create a new real estate venture
 
