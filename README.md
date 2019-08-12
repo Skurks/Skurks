@@ -25,12 +25,12 @@ Worst Day/Time for an intense 2 hr meeting | Fridays; After 2PM
 
 Hit me up in whatever medium you'd like (but I do have ALL my notifications on silent). I strive for a 24-hr SLA. If it's crazy urgent, don't hesitate to come find me face to face or double-ring me on the phone.
 
-## My Current OKRs (as of March 2019)
+## My Current OKRs (as of August 2019)
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
-Improve attractiveness of RT.com's product offering | Q1/2 2019 (Now) | Reboot of product pricing/packaging to new RT Customers
-Build & grow high-functioning Product team | 2019 (Professional) | 100% voluntary rentetion, PM meet with > 1x customer/week 
+Improve attractiveness of ReviewTrackers offering | Q3 2019 (Now) | Reboot of product pricing/packaging & positioning to new RT Customers
+Build & grow high-functioning Product team | 2019 (Professional) | 75% voluntary rentetion, PM meet with > 1x customer/week 
 Scale RT.com to best-in-class SaaS | 2019-2020 | > 50% YoY Revenue Growth, > 110% Net Dollar Retention, Improve Margins > 10%
 Be a great human to others | 2019 (Both) | Pay it forward 2x a week, write more hand-written notes
 Be a physically/mentally healthier me | 2019 (Personal) | Meditate & workout 4x a week.
