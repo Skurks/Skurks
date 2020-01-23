@@ -25,17 +25,18 @@ Worst Day/Time for an intense 2 hr meeting | Fridays; After 2PM
 
 Hit me up in whatever medium you'd like (but I do have ALL my notifications on silent). I strive for a 24-hr SLA. If it's crazy urgent, don't hesitate to come find me face to face or double-ring me on the phone.
 
-## My Current OKRs (as of Oct 2019)
+## My Current OKRs (as of Jan 2020)
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
-Improve attractiveness of ReviewTrackers offering | Q4 2019 (Now) | Reboot of product positioning for RT
-Empower our CS & Partner teams to WIN | Q4 2019 (Now) | >50 accounts with an automated QBR deck
-Build & grow high-functioning Product team | 2019 (Professional) | 75% voluntary rentetion, PM meet with > 1x customer/week 
-Scale RT.com to best-in-class SaaS | 2019-2020 | > 50% YoY Revenue Growth, > 110% Net Dollar Retention, Improve Margins > 10%
-Be a great human to others | 2019 (Both) | Pay it forward 2x a week, write more hand-written notes
-Be a physically/mentally healthier me | 2019 (Personal) | Meditate & workout 4x a week.
-Play more competitive golf | 2019 (Personal) | Qualify for a USGA/CDGA championship 
+Improve attractiveness of ReviewTrackers offering | Q1 2020 (Now) | Reboot of product positioning for RT
+Improve attractiveness of ReviewTrackers offering | Q1 2020 (Now) | Integrated Local Listings product launch, 3k locs sold in Q1
+Empower our CS & Partner teams to WIN | Q1 2020 (Now) | >50 accounts with an automated QBR deck
+Build & grow high-functioning Product team | 2020 (Professional) | PM meet with > 1x customer/week, 3 "customer problems"/Quarter 
+Scale RT.com to best-in-class SaaS | 2020 | > 50% YoY Revenue Growth, > 110% Net Dollar Retention, Improve Margins > 10%
+Be a great human to others | 2020 (Both) | Pay it forward 2x a week, write more hand-written notes of gratitude 
+Be a physically/mentally healthier me | 2020 (Personal) | Meditate & workout 4x a week. Get to 175lbs by May
+Play more competitive golf | 2020 (Personal) | Qualify for a USGA/CDGA championship 
 Never stop growing professionally | 5 Years | COO role and/or create a new real estate venture
 
 ## My expectations of folks who report to me
