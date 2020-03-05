@@ -29,13 +29,13 @@ Hit me up in whatever medium you'd like (but I do have ALL my notifications on s
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
-Improve attractiveness of ReviewTrackers offering | Q1 2020 (Now) | Reboot of product positioning for RT
+Improve attractiveness of ReviewTrackers offering | Q1 2020 (Now) | Reboot of product positioning for RT, Launch to market 4/1
 Improve attractiveness of ReviewTrackers offering | Q1 2020 (Now) | Integrated Local Listings product launch, 3k locs sold in Q1
-Empower our CS & Partner teams to WIN | Q1 2020 (Now) | >50 accounts with an automated QBR deck
+Empower our CS & Partner teams to WIN | Q1 2020 (Now) | > 50 accounts with an automated QBR decks
 Build & grow high-functioning Product team | 2020 (Professional) | PM meet with > 1x customer/week, 3 "customer problems"/Quarter 
 Scale RT.com to best-in-class SaaS | 2020 | > 50% YoY Revenue Growth, > 110% Net Dollar Retention, Improve Margins > 10%
-Be a great human to others | 2020 (Both) | Pay it forward 2x a week, write more hand-written notes of gratitude 
-Be a physically/mentally healthier me | 2020 (Personal) | Meditate & workout 4x a week. Get to 175lbs by May
+Be a great human to others | 2020 (Both) | Pay it forward 2x a week, write 2 hand-written notes of gratitude/week 
+Be a physically/mentally healthier me | 2020 (Personal) | Meditate & workout 4x a week. Get to 175lbs by May 5
 Play more competitive golf | 2020 (Personal) | Qualify for a USGA/CDGA championship 
 Never stop growing professionally | 5 Years | COO role and/or create a new real estate venture
 
