@@ -29,13 +29,13 @@ Hit me up in whatever medium you'd like (but I do have ALL my notifications on s
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
-Establish Goforward Product Strategy post-COVID19 | 1H 2020 (Now) | Refactor product roadmap and go-to-market strategy for Post COVID by 6.30
-Improve attractiveness of ReviewTrackers offering | 1H 2020 (Now) | Integrated Local Listings product launch, 3k locs sold in 1H
-Empower our CS & Partner teams to WIN | 1H 2020 (Now) | > 50 MM/ENT accounts with an automated QBR decks
-Build & grow high-functioning Product team | 2020 (Professional) | PM meet with > 1x customer/week, 3 "customer problems"/Quarter 
+Research Product Strategy Pivot  | 2H 2020 (Now) | Research new product strategy and market opportunities thru customer development interviews by 10.30.2020 
+Improve attractiveness of ReviewTrackers offering | 2H 2020 (Now) | Get > 10 tier 1|2 partnerships signed, GTM Aks 2.0, Competitor Insights 2.0
+Empower our CS & Partner teams to WIN | 2H 2020 (Now) | > 50% MM/ENT with a customer-health score of "Green"
+Build & grow high-functioning Product team | 2020 (Professional) | PMs & Designers meet with > 1x customer/week, 3 "customer problems"/Quarter 
 Scale RT.com to best-in-class SaaS | 2020 | > 50% YoY Revenue Growth, > 110% Net Dollar Retention, Improve Margins > 10%
 Be a great human to others | 2020 (Both) | Pay it forward 2x a week, write 2 hand-written notes of gratitude/week 
-Be a physically/mentally healthier me | 2020 (Personal) | Meditate & workout 4x a week. Get to 175lbs by May 5
+Be a physically/mentally healthier me | 2020 (Personal) | Meditate & workout 4x a week. Get to 175lbs by Oct 1
 Play more competitive golf | 2020 (Personal) | Qualify for a USGA/CDGA championship 
 Never stop growing professionally | 5 Years | COO role and/or create a new real estate venture
 
@@ -62,7 +62,7 @@ Never stop growing professionally | 5 Years | COO role and/or create a new real 
 * Heart on my sleeve. Call me out in the moment if I seem too intense
 
 ## What interests do you have when you're not working?
-* Exploring the world and being random with my wife [Aly](https://www.instagram.com/aljskurka/)
+* Exploring the world with my wife [Aly] & preparing for our new Son on NYE (https://www.instagram.com/aljskurka/)
 * Trying to stay a [scratch golfer](https://www.cdga.org/peer.asp?cmd=view&uid=6383196&id=)
 * Training & playing with my pup [Birdie](https://www.instagram.com/birdielegriff/)
 * Hosting & managing my [Airbnb side hustle](https://www.airbnb.com/rooms/6229085)
