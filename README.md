@@ -25,12 +25,12 @@ Worst Day/Time for an intense 2 hr meeting | Fridays; After 2PM
 
 Hit me up in whatever medium you'd like (but I do have ALL my notifications on silent). I strive for a 24-hr SLA. If it's crazy urgent, don't hesitate to come find me face to face or double-ring me on the phone.
 
-## My Current OKRs (as of May 2020)
+## My Current OKRs (as of October 2020)
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
 Research Product Strategy Pivot  | 2H 2020 (Now) | Research new product strategy and market opportunities thru customer development interviews by 10.30.2020 
-Improve attractiveness of ReviewTrackers offering | 2H 2020 (Now) | Get > 10 tier 1|2 partnerships signed, GTM Aks 2.0, Competitor Insights 2.0
+Improve attractiveness of ReviewTrackers offering | 2H 2020 (Now) | Get > 10 tier 1|2 partnerships signed, GTM Ass 2.0, Competitor Insights 2.0
 Empower our CS & Partner teams to WIN | 2H 2020 (Now) | > 50% MM/ENT with a customer-health score of "Green"
 Build & grow high-functioning Product team | 2020 (Professional) | PMs & Designers meet with > 1x customer/week, 3 "customer problems"/Quarter 
 Scale RT.com to best-in-class SaaS | 2020 | > 50% YoY Revenue Growth, > 110% Net Dollar Retention, Improve Margins > 10%
