@@ -29,9 +29,9 @@ Hit me up in whatever medium you'd like (but I do have ALL my notifications on s
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
-Improve competitiveness of ReviewTrackers Products | 1H 2021 (Now) | 3 products launched with > 25% MM/ENT customer adoption within 6 months of launch.
-Empower our CS & Partner teams to WIN | 1H 2021 (Now) | > 60% MM/ENT with a customer-health score of "Green"
-Build & grow high-functioning Product team | 2021 (Professional) | PMs & Designers interview with > 2x customer/week, hire new product designer by 3.31.2021
+Improve competitiveness of ReviewTrackers Products | 2H 2021 (Now) | 3 products launched with > 25% MM/ENT customer adoption within 6 months of launch.
+Empower our CS & Partner teams to WIN | 2H 2021 (Now) | > 60% MM/ENT with a customer-health score of "Green"
+Build & grow high-functioning Product team | 2021 (Professional) | PMs & Designers interview with > 2x customer/week, hire new product designer by 9.30.2021
 Scale RT.com to best-in-class SaaS | 2021 | > 50% YoY Revenue Growth, > 110% Net Dollar Retention, Improve Margins > 10%
 Be a great human to others | 2021 (Both) | Pay it forward 2x a week, write 2 hand-written notes of gratitude/week 
 Be a physically/mentally healthier me | 2021 (Personal) | Meditate & workout 4x a week. Get to 175lbs by May 1
