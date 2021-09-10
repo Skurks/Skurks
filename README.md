@@ -62,9 +62,9 @@ Never stop growing professionally | 5 Years | COO role and/or create a new real 
 * Heart on my sleeve. Call me out in the moment if I seem too intense
 
 ## What interests do you have when you're not working?
-* Exploring the world with my wife [Aly] & preparing for our new Son on NYE (https://www.instagram.com/aljskurka/)
+* Exploring the world with my wife [Aly] + son Anderson (https://www.instagram.com/aljskurka/)
 * Trying to stay a [scratch golfer](https://www.cdga.org/peer.asp?cmd=view&uid=6383196&id=)
-* Training & playing with my pup [Birdie](https://www.instagram.com/birdielegriff/)
+* Training & hunting with my gun dog [Birdie](https://www.instagram.com/birdielegriff/)
 * Hosting & managing my [Airbnb side hustle](https://www.airbnb.com/rooms/6229085)
 * Being an exceptional friend, brother, son to my family
 
