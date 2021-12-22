@@ -1,10 +1,10 @@
 # Skurks Operating Manual
-I aspire to be the best stand up, hard-working, ever-learning product & technology executive who won't shy away from rolling up the sleves and getting my hands dirty when needed,  working on problems no one else wants to solve. Building great (and profitable) products and experiences are about becoming an obsessive student of your customers'/market's pains and aspirations. I lead, guide, and coach my teams to become obsessive students of their customers.
+I aspire to be an exceptional, ever-learning product & technology executive who won't shy away from rolling up the sleves and getting my hands dirty when needed. I find energy in working on problems no one else wants to solve. Building great (and profitable) products and experiences are about becoming an obsessive student of your customers'/market's pains and aspirations. I lead, guide, and coach my teams to become obsessive students of their customers.
 
 ## My Leadership Philosphy
-* Try to live by [Principles of Marine Core Leadership](https://www.mcjrotc.marines.mil/About/Leadership-Principles/)
+* I try to live by [Principles of Marine Core Leadership](https://www.mcjrotc.marines.mil/About/Leadership-Principles/)
 * Show [intellectual curiosity](https://www.forbes.com/sites/tomaspremuzic/2017/03/06/what-happens-when-leaders-lack-curiosity/#3cd906236b74)/effort before asking for help 
-* Proactive sharing (managing up/across)
+* Proactive sharing is essential (managing up/across)
 * Outcomes > how
 * Pay it forward
 
@@ -17,7 +17,7 @@ Thinking (No Meeting Days) | Tuesday & Wednesday
 Worst Day/Time for an intense 2 hr meeting | Fridays; After 2PM
 
 ## My Communication Channels
-*  My time (and thus my calendar) is very important to me. I strive to be a hyper efficient person & purposefully carve out time in my day/week to 'think'. 
+* My time (and thus my calendar) is very important to me. I strive to be a hyper efficient person & purposefully carve out time in my day/week to 'think'. 
 * I'm a morning person so can send communications at ridiculous hours of the morning. I don't expect a response.
 * Please DON'T double book me. My calendar is public and open. If the calendar slot is open, take it (an agenda is required...see next)!
 * Please DO share an agenda & any background reading/context with the invite. If there's no agenda, I'll likely decline.
