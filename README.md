@@ -25,18 +25,18 @@ Worst Day/Time for an intense 2 hr meeting | Fridays; After 2PM
 
 Hit me up in whatever medium you'd like (but I do have ALL my notifications on silent). I strive for a 24-hr SLA. If it's crazy urgent, don't hesitate to come find me face to face or double-ring me on the phone.
 
-## My Current OKRs (as of January 2021)
+## My Current OKRs (as of January 2022)
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
-Improve competitiveness of ReviewTrackers Products | 2H 2021 (Now) | 3 products launched with > 25% MM/ENT customer adoption within 6 months of launch.
-Empower our CS & Partner teams to WIN | 2H 2021 (Now) | > 60% MM/ENT with a customer-health score of "Green"
-Build & grow high-functioning Product team | 2021 (Professional) | PMs & Designers interview with > 2x customer/week, hire new product designer by 9.30.2021
-Scale RT.com to best-in-class SaaS | 2021 | > 50% YoY Revenue Growth, > 110% Net Dollar Retention, Improve Margins > 10%
-Be a great human to others | 2021 (Both) | Pay it forward 2x a week, write 2 hand-written notes of gratitude/week 
-Be a physically/mentally healthier me | 2021 (Personal) | Meditate & workout 4x a week. Get to 175lbs by May 1
-Be a great Dad and Husband | Forever | read > 2 books/night to Anderson, plan a date night with Aly 2x a month
-Play more competitive golf | 2021 (Personal) | Qualify for a USGA/CDGA championship 
+Improve competitiveness of ReviewTrackers Products | 1H 2022 (Now) | Get $100k ARR sold for our new local product within 120 days of launch.
+Improve competitiveness of ReviewTrackers Products | 1H 2022 (Now) | Collect 100k microsurveys by 12/31.
+Build & grow high-functioning Product team | 2022 (Professional) | Hire and onboard 3 new product squads by 7.1.2022
+Scale RT.com to best-in-class SaaS | 2022 | > 40% YoY Revenue Growth, > 110% Net Dollar Retention, Improve Margins > 10%
+Be a great human to others | 2022 (Both) | Pay it forward 2x a week, write 2 hand-written notes of gratitude/week 
+Be a physically/mentally healthier me | 2022 (Personal) | Meditate & sweat 5x a week. Add 10 MPH to golf swing
+Be a great Dad and Husband | Forever | read > 2 books/night to Anderson, plan a date night with Aly 1x a month
+Play more competitive golf | 2022 (Personal) | Qualify for a USGA/CDGA championship 
 Never stop growing professionally | 5 Years | COO role and/or create a new real estate venture
 
 ## My expectations of folks who report to me
