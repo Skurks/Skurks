@@ -25,18 +25,19 @@ Worst Day/Time for an intense 2 hr meeting | Fridays; After 2PM
 
 Hit me up in whatever medium you'd like (but I do have ALL my notifications on silent). I strive for a 24-hr SLA. If it's crazy urgent, don't hesitate to come find me face to face or double-ring me on the phone.
 
-## My Current OKRs (as of September 2022)
+## My Current OKRs (as of Jan 2023)
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
-Improve competitiveness of ReviewTrackers Products | 2H 2022 (Now) | Get $250k ARR sold for our new local product by 12.31.2022
-Improve competitiveness of ReviewTrackers Products | 2H 2022 (Now) | Collect 100k microsurveys by 12/31/2022
-Build & grow high-functioning Product team | 2022 (Professional) | Hire and onboard 3 new product squads
-Scale RT.com to best-in-class SaaS | 2022 | > 25% YoY Revenue Growth, > 110% Net Dollar Retention, Improve Margins > 10%
-Be a great human to others | 2022 (Both) | Pay it forward 2x a week, write 2 hand-written notes of gratitude/week 
-Be a physically/mentally healthier me | 2022 (Personal) | Meditate & sweat 5x a week. Add 10 MPH to golf swing
-Be a great Dad and Husband | Forever | read > 2 books/night to Anderson, plan a date night with Aly 1x a month
-Play more competitive golf | 2022 (Personal) | Qualify for a USGA/CDGA championship 
+Improve competitiveness of ReviewTrackers Products | 1H 2023 (Now) | Get $250k new ARR sold for our local product by 6.30.2023
+Improve competitiveness of ReviewTrackers Products | 1Q 2023 (Now) | Collect 100k microsurveys by 3/31/2022
+Build & grow high-functioning Product team | Q1 2023 (Professional) | Hire and onboard new director of product
+Scale RT.com to best-in-class SaaS | 2023 | > 25% YoY Revenue Growth, > 110% Net Dollar Retention, Improve Margins > 10%
+Be a great human to others | 2023 (Both) | Pay it forward 2x a week, write 2 hand-written notes of gratitude/week 
+Be a physically/mentally healthier me | 2023 (Personal) | Meditate & sweat 5x a week. Add 10 MPH to golf swing
+Be a great Dad and Husband | Forever | read > 5 books/night to Anderson, plan a date night with Aly 1x a month
+Keep learning & building | Forever | Redo back deck at 1464 Erie this summer
+Play more competitive golf | 2023 (Personal) | Qualify for a USGA/CDGA championship 
 Never stop growing professionally | 5 Years | CEO/GM role and create a new real estate venture
 
 ## My expectations of folks who report to me
