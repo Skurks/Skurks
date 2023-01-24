@@ -1,5 +1,5 @@
 # Skurks Operating Manual
-I aspire to be an exceptional, ever-learning product & technology executive who won't shy away from rolling up the sleves and getting my hands dirty when needed. I find energy in working on problems no one else wants to solve. Building delightful, profitable products and experiences are about becoming an obsessive student of your market's pains and aspirations. I lead, guide, and coach my teams to become obsessive students of their customers.
+I aspire to be an exceptional, ever-learning executive who won't shy away from rolling up the sleves and getting my hands dirty. I find energy in working on problems no one else wants to or contemplates solving. Building delightful, profitable products and experiences are about becoming an obsessive student of your market's pains and aspirations. I lead and coach my teams to become obsessive students of their customers and markets.
 
 ## My Leadership Philosphy
 * I try to live by [Principles of Marine Core Leadership](https://www.mcjrotc.marines.mil/About/Leadership-Principles/)
@@ -21,7 +21,7 @@ Worst Day/Time for an intense 2 hr meeting | Fridays; After 2PM
 * I'm a morning person so can send communications at ridiculous hours of the morning. I don't expect a response.
 * Please DON'T double book me. My calendar is public and open. If the calendar slot is open, take it (an agenda is required...see next)!
 * Please DO share an agenda & any background reading/context with the invite. If there's no agenda, I'll decline.
-* I do my best to not ping/message folks over the weekend unless they've reached out first.
+* I do my best to NOT ping/message folks over the weekend unless they've reached out first.
 
 Hit me up in whatever medium you'd like (but I do have ALL my notifications on silent). I strive for a 24-hr SLA. If it's crazy urgent, don't hesitate to come find me face to face or double-ring me on the phone.
 
@@ -30,13 +30,15 @@ Hit me up in whatever medium you'd like (but I do have ALL my notifications on s
 Objective | Timeline | Key-Result
 ----- | ----- | -----
 Improve competitiveness of ReviewTrackers Products | 1H 2023 (Now) | Get $250k new ARR sold for our local product by 6.30.2023
-Improve competitiveness of ReviewTrackers Products | 1Q 2023 (Now) | Collect 100k microsurveys by 3/31/2022
-Build & grow high-functioning Product team | Q1 2023 (Professional) | Hire and onboard new director of product
+Improve competitiveness of ReviewTrackers Products | 1Q 2023 (Now) | Collect 100k microsurveys by 3.31.2023
+Build & grow high-functioning Product team | Q1 2023 (Professional) | Hire and onboard new director of product by 3.1.2023
 Scale RT.com to best-in-class SaaS | 2023 | > 25% YoY Revenue Growth, > 110% Net Dollar Retention, Improve Margins > 10%
-Be a great human to others | 2023 (Both) | Pay it forward 2x a week, write 2 hand-written notes of gratitude/week 
+Be a great human to others | 2023 (Personal) | Pay it forward 2x a week, write 2 hand-written notes of gratitude/week 
 Be a physically/mentally healthier me | 2023 (Personal) | Meditate & sweat 5x a week. Add 10 MPH to golf swing
+Run a life orbit experiment | 2023 (Personal) | Materially modify the standard 'orbit' of my current habits (temp move to CO in Fall 2023)
 Be a great Dad and Husband | Forever | read > 5 books/night to Anderson, plan a date night with Aly 1x a month
-Keep learning & building | Forever | Redo back deck at 1464 Erie this summer
+Be an exceptional Son to my Parents | 2023 (Personal) | Project manage Mom & Dad's estate planning motions. Finalize by 6.30.2023 
+Keep learning & building | Forever | Reconstruct timber deck at 1464 Erie this summer
 Play more competitive golf | 2023 (Personal) | Qualify for a USGA/CDGA championship 
 Never stop growing professionally | 5 Years | CEO/GM role and create a new real estate venture
 
