@@ -25,21 +25,22 @@ Worst Day/Time for an intense meeting | Fridays; Any day after 2PM
 
 Hit me up in whatever medium you'd like (but I do have ALL my notifications on silent). I strive for a 24-hr SLA. If it's crazy urgent, double-ring me on the phone and you'll get a call back within 5 mins.
 
-## My Current OKRs (as of Jan 2023)
+## My Current OKRs (as of Aug 2023)
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
-Improve competitiveness of ReviewTrackers Products | 1H 2023 (Now) | :white_check_mark: Get $250k new ARR sold for our local product by 6.30.2023
-Improve competitiveness of ReviewTrackers Products | 1H 2023 (Now) | :frowning_face: Collect 100k microsurveys by 6.30.2023
+Improve competitiveness of ReviewTrackers Products | 1H 2023 (Now) | :white_check_mark: Get $250k new ARR sold for our local products by 6.30.2023
+Improve competitiveness of ReviewTrackers Products | 2H 2023 (Now) | :hammer_and_wrench: Collect 500k microsurveys by 12.30.2023
+Improve competitiveness of ReviewTrackers Products | 2H 2023 (Now) | :hammer_and_wrench: Launch 5 VLE improvements by 12.30.2023
 Scale RT.com to best-in-class SaaS | 2023 | :nerd_face: > 25% YoY Net Revenue Growth, > 110% Net Dollar Retention
 Be a great human to others | 2023 (Personal) | :white_check_mark: Pay it forward 2x a week, write 2 hand-written notes of gratitude/week 
 Be a physically/mentally healthier me | 2023 (Personal) | :x: Meditate & sweat 5x a week. Add 10 MPH to golf swing
-Run a life orbit experiment | 2023 (Personal) | :hammer_and_wrench: Materially modify the standard 'orbit' of my current habits (i.e move to CO in Fall 2023 for the ski season)
-Be a great Dad and Husband | Forever | :hammer_and_wrench: read > 5 books/night to Anderson, plan a date night with Aly 1x a month
-Be an exceptional Son to my Parents | 2023 (Personal) | :hammer_and_wrench: Project manage Mom & Dad's estate planning motions. Finalize by 6.30.2023 
+Run a life orbit experiment | 2023 (Personal) | :hammer_and_wrench: Materially modify the standard 'orbit' of my current habits (thanks Tracy Bird for the inspo!)
+Be a great Dad and Husband | Forever | :hammer_and_wrench: read > 2 books/night to Anderson, plan a date night with Aly 1x a month
+Be an exceptional Son to my Parents | 2023 (Personal) | :hammer_and_wrench: Project manage Mom & Dad's estate planning motions. Finalize by 12.30.2023 
 Keep learning & building | Forever | :x: Reconstruct timber deck at 1464 Erie this summer
 Play more competitive golf | 2023 (Personal) | :white_check_mark: Qualify for a USGA/CDGA championship 
-Never stop growing professionally | 5 Years | CEO/COO/GM role and create a new real estate venture
+Never stop growing professionally | 5 Years | CEO/COO/CPO/GM role and or create a new real estate venture
 
 ## My expectations of folks who report to me
 * Please setup a healthly system of push/pull of sharing information (over-communicate). I can always handle bad news, but I HATE surprises.
@@ -69,7 +70,7 @@ Never stop growing professionally | 5 Years | CEO/COO/GM role and create a new r
 * Trying to stay a [scratch golfer](https://www.cdga.org/peer.asp?cmd=view&uid=6383196&id=)
 * Training & hunting pheasant with my gun dog [Birdie](https://www.instagram.com/birdielegriff/)
 * Hosting & managing my [Airbnb side hustle](https://www.airbnb.com/rooms/6229085)
-* Being an exceptional friend, brother, son to my family
+* Being an exceptional husband, dad, uncle, friend, brother, & son to my family
 
 ## Other "Stuff"
 * I'm still a Certified Public Accountant (CPA) in the state of Illinois, specialize in taxiation.
