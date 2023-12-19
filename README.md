@@ -35,7 +35,7 @@ Improve competitiveness of ReviewTrackers Products | 2H 2023 (Now) | :hammer_and
 Scale RT.com to best-in-class SaaS | 2023 | :nerd_face: > 25% YoY Net Revenue Growth, > 110% Net Dollar Retention
 Be a great human to others | 2023 (Personal) | :white_check_mark: Pay it forward 2x a week, write 2 hand-written notes of gratitude/week 
 Be a physically/mentally healthier me | 2023 (Personal) | :x: Meditate & sweat 5x a week. Add 10 MPH to golf swing
-Run a life orbit experiment | 2023 (Personal) | :hammer_and_wrench: Materially modify the standard 'orbit' of my current habits (thanks Tracy Bird for the inspo!)
+Run a life orbit experiment | 2023 (Personal) | :white_check_mark: Materially modify the standard 'orbit' of my current habits (thanks Tracy Bird for the inspo!)
 Be a great Dad and Husband | Forever | :hammer_and_wrench: read > 2 books/night to Anderson, plan a date night with Aly 1x a month
 Be an exceptional Son to my Parents | 2023 (Personal) | :hammer_and_wrench: Project manage Mom & Dad's estate planning motions. Finalize by 12.30.2023 
 Keep learning & building | Forever | :x: Reconstruct timber deck at 1464 Erie this summer
