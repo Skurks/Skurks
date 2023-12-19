@@ -1,5 +1,5 @@
 # Skurks Operating Manual
-I aspire to be an exceptional, ever-learning executive who won't shy away from rolling up the sleves and getting my hands dirty. I find energy in working on problems no one else wants to or contemplates solving. Building delightful, profitable products and experiences are about becoming an obsessive student of your market's pains and aspirations. I lead and coach my teams to become obsessive students of their customers and markets.
+I lead with heart and hustle. Market obsession fuels delightful products, built by teams I coach to do the same.
 
 ## My Leadership Philosphy
 * I try to live by [Principles of Marine Core Leadership](https://www.usmcu.edu/Portals/218/Fidelity-%20Leadership%20Principles.pdf)
