@@ -56,7 +56,7 @@ Never stop growing professionally | 2 Years | :hammer_and_wrench: CEO/COO/CPO/GM
 ## My energy creators
 * Fixing/helping/problem-solving
 * Telling stories with data
-* Lifelong learner (aspiring [polymath](https://en.wikipedia.org/wiki/Polymath))
+* Lifelong learner 
 * Mentorship (bi-directional)
 
 ## My achilles heels (but actively working on em)
@@ -65,11 +65,10 @@ Never stop growing professionally | 2 Years | :hammer_and_wrench: CEO/COO/CPO/GM
 * Long winded at times. Just inturrupt me when I start to monologe 
 
 ## What interests do you have when you're not working?
-* Exploring the world with my wife [Aly] + son Anderson (https://www.instagram.com/aljskurka/)
+* Being an exceptional dad, uncle, friend, brother, & son to my family
 * Trying to stay a [scratch golfer](https://www.cdga.org/peer.asp?cmd=view&uid=6383196&id=)
 * Training & hunting pheasant with my gun dog [Birdie](https://www.instagram.com/birdielegriff/)
 * Hosting & managing my [Airbnb side hustle](https://www.airbnb.com/rooms/6229085)
-* Being an exceptional husband, dad, uncle, friend, brother, & son to my family
 
 ## Other "Stuff"
 * I'm still a Certified Public Accountant (CPA) in the state of Illinois, specialize in taxiation.
