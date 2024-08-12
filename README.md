@@ -11,7 +11,7 @@ I lead with heart and hustle. Market obsession fuels delightful products, built 
 ## My Daily/Weekly Cadence
 TOPIC | ANSWER
 ----- | -----
-Most Productive Time of the Day | V Early Mornings; but really anytime before Noon
+Most Productive Time of the Day | Early Mornings
 Thinking & Doing (No Meeting Days) | Tuesday & Wednesday
 1x1 & Team Days | Thursday & Friday
 Worst Day/Time for an intense meeting | Fridays; Any day after 2PM
@@ -19,29 +19,27 @@ Worst Day/Time for an intense meeting | Fridays; Any day after 2PM
 ## My Communication Channels
 * My time (and thus my calendar) is very important to me. I strive to be a hyper efficient person & purposefully carve out time in my day/week to think. 
 * I'm a morning person so I've been known to send communications at ridiculous hours of the morning. I don't expect a quick response.
-* Please DON'T double book me. My calendar is public and open. If the calendar slot is open, take it (an agenda is required...see next)!
 * Please DO share an agenda & any background reading/context with the invite. If there's no agenda, I'll decline.
 * I do my best to NOT ping/message folks over the weekend unless they've reached out first.
 
-## My Current OKRs (as of Jan 2024)
+## My Current OKRs (as of July 2024)
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
 Grow ReviewTrackers Products Internationally | 2024 (Professional) | :hammer_and_wrench: Drive > $1.5M in EMEA/APAC by 12.30.2024
-Scale RT.com to best-in-class SaaS | 2024 (Professional) | :nerd_face: > 25% YoY Net Revenue Growth, > 105% Net Dollar Retention
 Be a great human to others | 2024 (Personal) | :hammer_and_wrench: Pay it forward 2x a week, write 2 hand-written notes of gratitude/week 
 Be a physically/mentally healthier me | 2024 (Personal) | :hammer_and_wrench: Meditate & sweat 5x a week. Add 10 MPH to golf swing
 Be a physically/mentally healthier me | 2024 (Personal) | :hammer_and_wrench: Do 2x/week 'for-yourself' activity of > 3 hrs.
 Be a great Dad, Friend, Uncle, Son | Forever | :hammer_and_wrench: 1x a week Dad/Ders adventure. Call Mom/Dad 5x a week, see them 2x a month
-Be an exceptional Son to my Parents | 2024 (Personal) | :hammer_and_wrench: Simplify Mom/Dad's financial life via automation. Finalize by 4.30.2023 
+Be an exceptional Son to my Parents | 2024 (Personal) | :hammer_and_wrench: Simplify Mom/Dad's financial life via automation. Finalize by 9.30.2024 
 Play more competitive golf | 2024 (Personal) | :hammer_and_wrench:  Qualify for a USGA/CDGA championship 
 Never stop growing professionally | 2 Years | :hammer_and_wrench: CEO/COO/CPO/GM role 
 
 ## My expectations of folks who report to me
 * Please setup a healthly system of push/pull of sharing information (over-communicate). I can always handle bad news, but I HATE surprises.
 * Please take ownership of you career and personal/professional development. If I have to be pushing you often, we won't last long.
+* I work weekends occasionally, this is my choice. I do NOT expect you to work weekends, but I do expect you to crank during the week.
 * Please tell me if anything feels off, as soon as you feel it.
-* I work weekends occasionally, this is my choice. I do NOT expect you to work weekends, but I do expect you to crank during the week. 
 
 ## What you can expect of me as your manager
 * Someone who will fight with and for you to acheive outsized professional growth & development
