@@ -12,7 +12,7 @@ I lead with heart and hustle. Market obsession fuels delightful products, built 
 TOPIC | ANSWER
 ----- | -----
 Most Productive Time of the Day | V Early Mornings; but really anytime before Noon
-Thinking|Doing (No Meeting Days) | Tuesday & Wednesday
+Thinking & Doing (No Meeting Days) | Tuesday & Wednesday
 1x1 & Team Days | Thursday & Friday
 Worst Day/Time for an intense meeting | Fridays; Any day after 2PM
 
@@ -23,8 +23,6 @@ Worst Day/Time for an intense meeting | Fridays; Any day after 2PM
 * Please DO share an agenda & any background reading/context with the invite. If there's no agenda, I'll decline.
 * I do my best to NOT ping/message folks over the weekend unless they've reached out first.
 
-Hit me up in whatever medium you'd like (but I do have ALL my notifications on silent). I strive for a 24-hr SLA. If it's crazy urgent, double-ring me on the phone and you'll get a call back within 5 mins.
-
 ## My Current OKRs (as of Jan 2024)
 
 Objective | Timeline | Key-Result
@@ -33,11 +31,9 @@ Grow ReviewTrackers Products Internationally | 2024 (Professional) | :hammer_and
 Scale RT.com to best-in-class SaaS | 2024 (Professional) | :nerd_face: > 25% YoY Net Revenue Growth, > 105% Net Dollar Retention
 Be a great human to others | 2024 (Personal) | :hammer_and_wrench: Pay it forward 2x a week, write 2 hand-written notes of gratitude/week 
 Be a physically/mentally healthier me | 2024 (Personal) | :hammer_and_wrench: Meditate & sweat 5x a week. Add 10 MPH to golf swing
-Be a physically/mentally healthier me | 2024 (Personal) | :hammer_and_wrench: 100% Sleep Metrics 5x a week + Remove added sugar from lifestyle
 Be a physically/mentally healthier me | 2024 (Personal) | :hammer_and_wrench: Do 2x/week 'for-yourself' activity of > 3 hrs.
 Be a great Dad, Friend, Uncle, Son | Forever | :hammer_and_wrench: 1x a week Dad/Ders adventure. Call Mom/Dad 5x a week, see them 2x a month
 Be an exceptional Son to my Parents | 2024 (Personal) | :hammer_and_wrench: Simplify Mom/Dad's financial life via automation. Finalize by 4.30.2023 
-Keep learning & building | Forever | :hammer_and_wrench:  Take a tile-laying course and redo at least 2 floors in bathrooms.
 Play more competitive golf | 2024 (Personal) | :hammer_and_wrench:  Qualify for a USGA/CDGA championship 
 Never stop growing professionally | 2 Years | :hammer_and_wrench: CEO/COO/CPO/GM role 
 
