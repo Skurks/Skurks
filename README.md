@@ -22,18 +22,17 @@ Worst Day/Time for an intense meeting | Fridays; Any day after 2PM
 * Please DO share an agenda & any background reading/context with the invite. If there's no agenda, I'll decline.
 * I do my best to NOT ping/message folks over the weekend unless they've reached out first.
 
-## My Current OKRs (as of July 2024)
+## My Current OKRs (as of December 2024)
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
-Grow ReviewTrackers Products Internationally | 2024 (Professional) | :hammer_and_wrench: Drive > $1.5M in EMEA/APAC by 12.30.2024
-Be a great human to others | 2024 (Personal) | :hammer_and_wrench: Pay it forward 2x a week, write 2 hand-written notes of gratitude/week 
-Be a physically/mentally healthier me | 2024 (Personal) | :hammer_and_wrench: Meditate & sweat 5x a week. Add 10 MPH to golf swing
-Be a physically/mentally healthier me | 2024 (Personal) | :hammer_and_wrench: Do 2x/week 'for-yourself' activity of > 3 hrs.
-Be a great Dad, Friend, Uncle, Son | Forever | :hammer_and_wrench: 1x a week Dad/Ders adventure. Call Mom/Dad 5x a week, see them 2x a month
-Be an exceptional Son to my Parents | 2024 (Personal) | :hammer_and_wrench: Simplify Mom/Dad's financial life via automation. Finalize by 9.30.2024 
-Play more competitive golf | 2024 (Personal) | :hammer_and_wrench:  Qualify for a USGA/CDGA championship 
-Never stop growing professionally | 2 Years | :hammer_and_wrench: CEO/COO/CPO/GM role 
+Decide the next adventure | 2025 (Professional) | :hammer_and_wrench: Figure out what I want to be when I grow up.
+Invest in Real Estate | 2025 (Professional) | :hammer_and_wrench: Complete rennovation of Colorado Airbnb & get 100 nights of rentals.
+Be a great human to others | 2025 (Personal) | :hammer_and_wrench: Pay it forward 2x a week, write 2 hand-written notes of gratitude/week.
+Be a physically/mentally healthier me | 2025 (Personal) | :hammer_and_wrench: Sweat 7x a week. Add 10 MPH to golf swing. Weight stays < 175.
+Be a great Dad, Friend, Uncle, Son | Forever | :hammer_and_wrench: 1x a week Dad/Ders adventure. Call Mom/Dad 5x a week, see them 2x a month.
+Play competitive golf | 2025 (Personal) | :hammer_and_wrench:  Qualify for a USGA/CDGA championship. Win OFCC Club Championship.
+Never stop learning | Forever | :hammer_and_wrench: Re-learn piano, experiment with mosaics, do a tile-work job.
 
 ## My expectations of folks who report to me
 * Please setup a healthly system of push/pull of sharing information (over-communicate). I can always handle bad news, but I HATE surprises.
@@ -65,6 +64,6 @@ Never stop growing professionally | 2 Years | :hammer_and_wrench: CEO/COO/CPO/GM
 * Hosting & managing my [Airbnb side hustle](https://www.airbnb.com/rooms/6229085)
 
 ## Other "Stuff"
-* I'm still a Certified Public Accountant (CPA) in the state of Illinois, specialize in taxiation.
+* I'm still a Certified Public Accountant (CPA) in the state of Illinois, nerding out in taxiation.
 * DISC PROFILE = Healthy blend of [Di](https://www.crystalknows.com/disc/di-id-personality-type) and [Dc](https://www.crystalknows.com/disc/dc-personality-type)
 * [KOLBE](http://paulkortman.com/2013/11/19/laymens-guide-kolbe-score/) = Fact Finder = 4  | Followthru = 7  | Quick-Start = 3 | Implementor = 5
