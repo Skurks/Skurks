@@ -59,7 +59,7 @@ Never stop learning | Forever | :hammer_and_wrench: Re-learn piano, experiment w
 
 ## What interests do you have when you're not working?
 * Being an exceptional dad, uncle, friend, brother, & son to my family
-* Trying to stay a [scratch golfer](https://www.cdga.org/peer.asp?cmd=view&uid=6383196&id=)
+* Trying to stay a [scratch golfer](https://wsga.bluegolf.com/bluegolf/wsga1/handicap/f0dc4b19206c4eb69a78e1ca09c77d3b/index.htm)
 * Training & hunting pheasant with my gun dog [Birdie](https://www.instagram.com/birdielegriff/)
 * Hosting & managing my [Airbnb side hustle](https://www.airbnb.com/rooms/6229085)
 
