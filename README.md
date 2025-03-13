@@ -26,7 +26,7 @@ Worst Day/Time for an intense meeting | Fridays; Any day after 2PM
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
-Decide the next adventure | 2025 (Professional) | :hammer_and_wrench: Figure out what I want to be when I grow up.
+Successful onboarding to IMG | 2025 (Professional) | :hammer_and_wrench: Drink from the firehose to learn a whole new industry, set of personalities, and unmet needs.
 Invest in Real Estate | 2025 (Professional) | :hammer_and_wrench: Complete rennovation of Colorado Airbnb & get 100 nights of rentals.
 Be a great human to others | 2025 (Personal) | :hammer_and_wrench: Pay it forward 2x a week, write 2 hand-written notes of gratitude/week.
 Be a physically/mentally healthier me | 2025 (Personal) | :hammer_and_wrench: Sweat 7x a week. Add 10 MPH to golf swing. Weight stays < 175.
