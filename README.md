@@ -26,7 +26,7 @@ Worst Day/Time for an intense meeting | Fridays; Any day after 2PM
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
-Successful onboarding to IMG | 2025 (Professional) | :hammer_and_wrench: Drink from the firehose to learn a whole new industry, set of personalities, and unmet needs.
+Building IMG NP1 & Team | 2025 (Professional) | :hammer_and_wrench: Build & ramp new Product team by Q4, Get NP1 to in-market pilot by Q1-26.
 Invest in Real Estate | 2025 (Professional) | :hammer_and_wrench: Complete rennovation of Colorado Airbnb & get 100 nights of rentals.
 Be a great human to others | 2025 (Personal) | :hammer_and_wrench: Pay it forward 2x a week, write 2 hand-written notes of gratitude/week.
 Be a physically/mentally healthier me | 2025 (Personal) | :hammer_and_wrench: Sweat 7x a week. Add 10 MPH to golf swing. Weight stays < 175.
@@ -60,7 +60,7 @@ Never stop learning | Forever | :hammer_and_wrench: Re-learn piano, experiment w
 ## What interests do you have when you're not working?
 * Being an exceptional dad, uncle, friend, brother, & son to my family
 * Trying to stay a [scratch golfer](https://wsga.bluegolf.com/bluegolf/wsga1/handicap/f0dc4b19206c4eb69a78e1ca09c77d3b/index.htm)
-* Training & hunting pheasant with my gun dog [Birdie](https://www.instagram.com/birdielegriff/)
+* Traveling far-and-wide to new and old places. Especially impromptu. 
 * Hosting & managing my [Airbnb side hustle](https://www.airbnb.com/rooms/6229085)
 
 ## Other "Stuff"
