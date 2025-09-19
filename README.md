@@ -59,9 +59,9 @@ Never stop learning | Forever | :hammer_and_wrench: Re-learn piano, experiment w
 
 ## What interests do you have when you're not working?
 * Being an exceptional dad, uncle, friend, brother, & son to my family
-* Trying to stay a [scratch golfer](https://wsga.bluegolf.com/bluegolf/wsga1/handicap/f0dc4b19206c4eb69a78e1ca09c77d3b/index.htm)
+* Trying to stay a [scratch golfer](https://www.cdga.org/golf-handicaps/peer.asp?cmd=view&uid=37759&ghin=10031736)
 * Traveling far-and-wide to new and old places. Especially impromptu. 
-* Hosting & managing my [Airbnb side hustle](https://www.airbnb.com/rooms/6229085)
+* Hosting & managing my [Airbnb side hustle](https://www.airbnb.com/users/show/4070322)
 
 ## Other "Stuff"
 * I'm still a Certified Public Accountant (CPA) in the state of Illinois, nerding out in taxation.
