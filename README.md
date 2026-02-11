@@ -22,16 +22,16 @@ Worst Day/Time for an intense meeting | Fridays; Any day after 2PM
 * Please DO share an agenda & any background reading/context with the invite. If there's no agenda, I'll decline.
 * I do my best to NOT ping/message folks over the weekend unless they've reached out first.
 
-## My Current OKRs (as of December 2024)
+## My Current OKRs (as of Feb 2026)
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
-Building IMG NP1 & Team | 2025 (Professional) | :hammer_and_wrench: Build & ramp new Product team by Q4, Get NP1 to in-market pilot by Q1-26.
-Invest in Real Estate | 2025 (Professional) | :hammer_and_wrench: Complete renovation of Colorado Airbnb & get 100 nights of rentals.
-Be a great human to others | 2025 (Personal) | :hammer_and_wrench: Pay it forward 2x a week, write 2 hand-written notes of gratitude/week.
-Be a physically/mentally healthier me | 2025 (Personal) | :hammer_and_wrench: Sweat 7x a week. Add 10 MPH to golf swing. Weight stays < 175.
-Be a great Dad, Friend, Uncle, Son | Forever | :hammer_and_wrench: 1x a week Dad/Ders adventure. Call Mom/Dad 5x a week, see them 2x a month.
-Play competitive golf | 2025 (Personal) | :hammer_and_wrench:  Qualify for a USGA/CDGA championship. Win OFCC Club Championship.
+Growing OptimaFI | 2026 (Professional) | :hammer_and_wrench: Get 30 paying customers on HHI by 12.31, Drive new 50 x-sell deals cross portfolios.
+Real Estate | 2026 (Professional) | :hammer_and_wrench: Plan & schedule renovation of #201 & get 75 nights of rentals in #202.
+Be a great human to others | 2026 (Personal) | :hammer_and_wrench: Pay it forward 2x a week, write 2 hand-written notes of gratitude/week.
+Be a physically/mentally healthier me | 2026 (Personal) | :hammer_and_wrench: 100 kettlebell swings 5x week. Alcohol < 2x/month. Weight stays < 175.
+Be a great Partner, Dad, Friend, Uncle, Son | Forever | :hammer_and_wrench: >5 days/month ANA. Ders swimming, reading by 7.1. See Mom/Dad/Sibs/Nephews 1x a week.
+Play competitive golf | 2026 (Personal) | :hammer_and_wrench:  Qualify for a USGA/CDGA championship. Win OFCC Club Championship.
 Never stop learning | Forever | :hammer_and_wrench: Re-learn piano, experiment with mosaics, do a tile-work job.
 
 ## My expectations of folks who report to me
