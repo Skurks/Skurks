@@ -22,7 +22,7 @@ Worst Day/Time for an intense meeting | Fridays; Any day after 2PM
 * Please DO share an agenda & any background reading/context with the invite. If there's no agenda, I'll decline.
 * I do my best to NOT ping/message folks over the weekend unless they've reached out first.
 
-## My Current OKRs (as of Feb 2026)
+## My Current OKRs (as of APR 2026)
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
