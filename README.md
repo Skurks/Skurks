@@ -1,5 +1,5 @@
 # Skurks Operating Manual
-I lead with heart and hustle. Market obsession fuels delightful products, built by teams I coach to do the same.
+I lead with heart and hustle. Market obsession fuels delightful products customers love, built by teams I coach to do the same.
 
 ## My Leadership Philosophy
 * I try to live by [Principles of Marine Core Leadership](https://www.usmcu.edu/Portals/218/Fidelity-%20Leadership%20Principles.pdf)
@@ -35,9 +35,10 @@ Play competitive golf | 2026 (Personal) | :hammer_and_wrench:  Qualify for a USG
 Never stop learning | Forever | :hammer_and_wrench: Re-learn piano, experiment with mosaics, do a tile-work job.
 
 ## My expectations of folks who report to me
+* Customer and market intellectual curiosity. How users feel when they experience your product is just as important as the pain it solves.
 * Please setup a healthy system of push/pull of sharing information (over-communicate). I can always handle bad news, but I HATE surprises.
 * Please take ownership of you career and personal/professional development. If I have to be pushing you often, we won't last long.
-* I work weekends occasionally, this is my choice. I do NOT expect you to work weekends, but I do expect you to crank during the week.
+* I work weekends, this is my choice. I do NOT expect you to work weekends, but I do expect you to crank during the week.
 * Please tell me if anything feels off, as soon as you feel it.
 
 ## What you can expect of me as your manager
@@ -61,7 +62,7 @@ Never stop learning | Forever | :hammer_and_wrench: Re-learn piano, experiment w
 * Being an exceptional dad, uncle, friend, brother, & son to my family
 * Trying to stay a [scratch golfer](https://www.cdga.org/golf-handicaps/peer.asp?cmd=view&uid=37759&ghin=10031736)
 * Traveling far-and-wide to new and old places. Especially impromptu. 
-* Hosting & managing my [Airbnb side hustle](https://www.airbnb.com/users/show/4070322)
+* Hosting & managing my [Airbnb side hustle](https://www.airbnb.com/rooms/1507442024215710884)
 
 ## Other "Stuff"
 * I'm still a Certified Public Accountant (CPA) in the state of Illinois, nerding out in taxation.
